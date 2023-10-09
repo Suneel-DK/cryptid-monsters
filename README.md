@@ -1,6 +1,6 @@
 # cryptid_monsters
 
-A new Flutter project.
+Cryptid monsters is an active socialmedia in which we can learn about the existence of unhuman creatures,cryptids,etc..
 
 ## Getting Started
 
